@@ -2,10 +2,10 @@
  * Solve the N-queens problem using genetic algorithm
  * */
 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <string.h>
 #define WORST_FITNESS 56
 
 int nQueens;
