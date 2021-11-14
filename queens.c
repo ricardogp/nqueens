@@ -1,6 +1,6 @@
 /*
- * Solve the N-queens problem using genetic algorithm
- * */
+Solve the N-queens problem using genetic algorithm
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
